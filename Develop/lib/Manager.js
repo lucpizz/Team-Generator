@@ -4,14 +4,17 @@ const Employee = require("./Employee");
 class Manager extends Employee {
   constructor(name, id, email, officeNumber) {
     super(name, id, email);
-    this.github = officeNumber;
+    this.officeNumber = officeNumber;
   }
   getOfficeNumber() {
     return this.officeNumber;
   }
   getRole() {
-    return `Engineer`;
+    return `Manager`;
   }
 }
+
+const e = new Manager("Luca", 1, "lucpizz@gmail.com", 101);
+console.log(e);
 
 module.exports = Manager;

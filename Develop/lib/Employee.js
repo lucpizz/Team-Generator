@@ -23,4 +23,7 @@ class Employee {
   }
 }
 
+//const e = new Employee("Luca", 1, "lucpizz@gmail.com");
+//console.log(e);
+
 module.exports = Employee;
