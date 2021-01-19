@@ -1,4 +1,5 @@
-// TODO: Write code to define and export the Engineer class.  HINT: This class should inherit from Employee.
+// Engineer clas that extends Employee class to get the required information
+
 const Employee = require("./Employee");
 
 class Engineer extends Employee {
@@ -14,6 +15,7 @@ class Engineer extends Employee {
   }
 }
 
+//this set of code is to test the test files
 //const e = new Engineer("Luca", 1, "lucpizz@gmail.com", "lucpizz");
 //console.log(e);
 

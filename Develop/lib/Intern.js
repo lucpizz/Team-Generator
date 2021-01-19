@@ -1,4 +1,5 @@
-// TODO: Write code to define and export the Intern class.  HINT: This class should inherit from Employee.
+// Intern class that extends the Employee class to get the required information
+
 const Employee = require("./Employee");
 
 class Intern extends Employee {
@@ -14,7 +15,8 @@ class Intern extends Employee {
   }
 }
 
-const e = new Intern("Luca", 1, "lucpizz@gmail.com", "UCONN");
-console.log(e);
+//this set of code is to test the test files
+//const e = new Intern("Luca", 1, "lucpizz@gmail.com", "UCONN");
+//console.log(e);
 
 module.exports = Intern;

@@ -1,4 +1,5 @@
-// TODO: Write code to define and export the Manager class. HINT: This class should inherit from Employee.
+// Manager class that extends the employee class to get the requireed information
+
 const Employee = require("./Employee");
 
 class Manager extends Employee {
@@ -14,7 +15,8 @@ class Manager extends Employee {
   }
 }
 
-const e = new Manager("Luca", 1, "lucpizz@gmail.com", 101);
-console.log(e);
+//this set of code is to test the test files
+//const e = new Manager("Luca", 1, "lucpizz@gmail.com", 101);
+//console.log(e);
 
 module.exports = Manager;
