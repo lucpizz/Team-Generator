@@ -80,4 +80,4 @@ Please contact me at lucpizz@gmail.com for any questions regarding this program.
 
 ## Video of Process and Functionality
 
-![Screen Shot of Program Team HTML Webpage](./Images/Team.png)
+![Screen Shot of Program Team HTML Webpage](/Images/Team.png)
