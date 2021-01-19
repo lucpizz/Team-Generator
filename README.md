@@ -78,6 +78,6 @@ Please contact me at lucpizz@gmail.com for any questions regarding this program.
 
 ---
 
-## Video of Process and Functionality
+## Screen Shot of Team HTML Webpage
 
 ![Screen Shot of Program Team HTML Webpage](./Image/Team.png)
