@@ -1,4 +1,5 @@
-// TODO: Write code to define and export the Employee class
+// Employee class to get the required information
+
 class Employee {
   constructor(name, id, email) {
     this.name = name;
@@ -23,6 +24,7 @@ class Employee {
   }
 }
 
+//this set of code is to test the test files
 //const e = new Employee("Luca", 1, "lucpizz@gmail.com");
 //console.log(e);
 
