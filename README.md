@@ -54,7 +54,7 @@ Create a command line program that dynamically generates an team organization ch
 
 3.  Images directory
 
-    - Team-Generator.gif - video of the rendered html team webpage
+    - Team-Generator.gif - video of the installation process and output
 
 4.  Site README.md
 
