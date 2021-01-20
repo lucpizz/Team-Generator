@@ -85,7 +85,6 @@ Please contact me at lucpizz@gmail.com for any questions regarding this program.
 ## Screen Shot of Team HTML Webpage
 
 ![Gif Video of Program](./Image/Team-Generator.gif) 		
-![Screen Shot of Program Team HTML Webpage](./Image/Team.png)
 
 ---
 
