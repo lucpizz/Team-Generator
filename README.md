@@ -33,7 +33,7 @@ Create a command line program that dynamically generates an team organization ch
 ## Installation
 
     1. Create this repostiory by using the GitHub forking process onto your computer.
-    2. Navigator to the Develop directory. 
+    2. Navigator to the Develop directory.
     3. Install Node.js onto your computer.
     3. Install Inquirer.js onto your computer
     3. Install NPM the Node Project Manager onto your computer.
@@ -54,7 +54,7 @@ Create a command line program that dynamically generates an team organization ch
 
 3.  Images directory
 
-    - Team.gif - photo of the rendered html team webpage
+    - Team-Generator.gif - video of the rendered html team webpage
 
 4.  Site README.md
 
@@ -82,9 +82,9 @@ Please contact me at lucpizz@gmail.com for any questions regarding this program.
 
 ---
 
-## Screen Shot of Team HTML Webpage
+## Video GIF of Team HTML Webpage
 
-![Gif Video of Program](./Image/Team-Generator.gif) 		
+![Gif Video of Program](./Image/Team-Generator.gif)
 
 ---
 
