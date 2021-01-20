@@ -25,6 +25,7 @@ Create a command line program that dynamically generates an team organization ch
     * Usage
     * Contributing
     * Questions
+    * GIF Video and Screen shot
     * License
 
 ---
@@ -32,7 +33,9 @@ Create a command line program that dynamically generates an team organization ch
 ## Installation
 
     1. Create this repostiory by using the GitHub forking process onto your computer.
-    2. Install Node.js onto your computer.
+    2. Navigator to the Develop directory. 
+    3. Install Node.js onto your computer.
+    3. Install Inquirer.js onto your computer
     3. Install NPM the Node Project Manager onto your computer.
 
 ---
@@ -61,7 +64,7 @@ Create a command line program that dynamically generates an team organization ch
 
 This program is designed to create a Team html webpage.
 
-Start the program with the following command "npm run start".
+Start the program with the following command "node app.js".
 
 ---
 
@@ -81,6 +84,7 @@ Please contact me at lucpizz@gmail.com for any questions regarding this program.
 
 ## Screen Shot of Team HTML Webpage
 
+![Gif Video of Program](./Image/Team-Generator.gif) 		
 ![Screen Shot of Program Team HTML Webpage](./Image/Team.png)
 
 ---
